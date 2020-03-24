@@ -24,9 +24,6 @@ class LogInModel {
         return $result;
     } //Fin logIn
 
-    public function logOut(){
-        //aqui se debe cerrar la sesion
-    }
-            
+     
 }//Fin Clase LogInModel
 
