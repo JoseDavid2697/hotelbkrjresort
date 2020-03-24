@@ -19,9 +19,14 @@ class LogInModel {
         $request = $this->db->prepare('call sp_login_admin("'.$user.'","'.$password.'")');
         $request->execute();
         $result=$request->fetchAll();
+
         $request->CloseCursor();
         return $result;
     } //Fin logIn
+
+    public function logOut(){
+        //aqui se debe cerrar la sesion
+    }
             
 }//Fin Clase LogInModel
 
