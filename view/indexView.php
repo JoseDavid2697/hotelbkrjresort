@@ -137,9 +137,13 @@
     </section><!-- End Cta Section -->
 
     <!-- ======= Portfolio Section ======= -->
+    <!-- 
     <section id="portfolio" class="portfolio">
       <div class="container">
-
+        <h1>AQUI PONES LO TUYO KENNETH</h1>
+        <h3>PUTO EL QUE LO LEA ATTE:OJITOS BELLOS</h3>
+        <h5>PAPI AQUI ETA TU TIBURON XD</h5>
+      
         <div class="section-title" data-aos="fade-up">
           <h2>Contamos con hermosas <strong>instalaciones</strong></h2>
         </div>
@@ -209,11 +213,11 @@
         </div>
 
       </div>
-    </section><!-- End Portfolio Section -->
+    </section>--><!-- End Portfolio Section -->
 
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
+    <section id="serviceshome" class="serviceshome">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
@@ -223,48 +227,41 @@
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up">
-              <div class="icon"><i class="icofont-computer"></i></div>
-              <h4 class="title"><a href="">Equipo</a></h4>
-              <p class="description">Cada habitacion cuenta con laptops, para la comodidad del cliente.</p>
+              <div class="icon" ><i class="icofont-computer"></i></div>
+              <h4 class="title"><a href="view/services.php">Equipo</a></h4>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
-              <h4 class="title"><a href="">Precios</a></h4>
-              <p class="description">Damos un sistema de precios adaptable a todo tipo de clientes.</p>
+              <h4 class="title"><a href="view/services.php">Precios</a></h4>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="icofont-earth"></i></div>
-              <h4 class="title"><a href="">Internet</a></h4>
-              <p class="description">A lo largo de las instalaciones ofrecemos acceso a la red con alta velocidad de navegacion.</p>
+              <h4 class="title"><a href="view/services.php">Internet</a></h4>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="icofont-image"></i></div>
-              <h4 class="title"><a href="">Mirador</a></h4>
-              <p class="description">Si desea capturar esas hermosas vistas, ofrecemos miradores alrededor del resort para capturar cada hermoso paisaje.</p>
+              <h4 class="title"><a href="view/services.php">Mirador</a></h4>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="icofont-settings"></i></div>
-              <h4 class="title"><a href="">Seguridad</a></h4>
-              <p class="description">Contamos con servicio de vigilancia 24/7 para la seguridad de cada cliente y sus pertenencias.</p>
+              <h4 class="title"><a href="view/services.php">Seguridad</a></h4>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="icofont-tasks-alt"></i></div>
-              <h4 class="title"><a href="">Calendarios</a></h4>
-              <p class="description">Ante cualquier imprevisto, ofrecemos medios para cancelar sus reservaciones o moverlas a las fechas que mas se ajusten a sus encesidades.</p>
+              <h4 class="title"><a href="view/services.php">Calendarios</a></h4>
             </div>
           </div>
         </div>
-
       </div>
     </section><!-- End Services Section -->
 
