@@ -150,25 +150,25 @@
               <li class="nav-item">
                 <a class="nav-link active show" data-toggle="tab" href="#tab-1">
                   <h4>Acceso a internet y laptops</h4>
-                  <p>Quis excepturi porro totam sint earum quo nulla perspiciatis eius.</p>
+                  <p>Te brindamos una laptop y acceso a internet.</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-toggle="tab" href="#tab-2">
                   <h4>Aire acondicionado</h4>
-                  <p>Voluptas vel esse repudiandae quo excepturi.</p>
+                  <p>En tu habitación cuentas con aire acondicionado.</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-toggle="tab" href="#tab-3">
                   <h4>Servicio de Habitacion</h4>
-                  <p>Velit veniam ipsa sit nihil blanditiis mollitia natus.</p>
+                  <p>Cuando desees comer solo debes pedir y te lo llevamos a tu habitación.</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-toggle="tab" href="#tab-4">
                   <h4>TV digital</h4>
-                  <p>Ratione hic sapiente nostrum doloremque illum nulla praesentium id</p>
+                  <p>Para esos momentos que quieres disfrutar con tus series o películas favoritas ya tienes TV digital.</p>
                 </a>
               </li>
             </ul>
