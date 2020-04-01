@@ -136,85 +136,10 @@
       </div>
     </section><!-- End Cta Section -->
 
-    <!-- ======= Portfolio Section ======= -->
-    <!-- 
-    <section id="portfolio" class="portfolio">
-      <div class="container">
-        <h1>AQUI PONES LO TUYO KENNETH</h1>
-        <h3>PUTO EL QUE LO LEA ATTE:OJITOS BELLOS</h3>
-        <h5>PAPI AQUI ETA TU TIBURON XD</h5>
+      <h1>AQUI PONES LO TUYO KENNETH</h1>
+      <h3>PUTO EL QUE LO LEA ATTE:OJITOS BELLOS</h3>
+      <h5>PAPI AQUI ETA TU TIBURON XD</h5>
       
-        <div class="section-title" data-aos="fade-up">
-          <h2>Contamos con hermosas <strong>instalaciones</strong></h2>
-        </div>
-
-        <div class="row portfolio-container" data-aos="fade-up">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="public/assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
-              <a href="public/assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="public/assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="public/assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="public/assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
-              <a href="public/assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <img src="public/assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
-              <a href="public/assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="public/assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="public/assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="public/assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
-              <a href="public/assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"></a>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section>--><!-- End Portfolio Section -->
-
 
     <!-- ======= Services Section ======= -->
     <section id="serviceshome" class="serviceshome">
@@ -226,40 +151,52 @@
 
         <div class="row">
           <div class="col-lg-4 col-md-6">
-            <div class="icon-box" data-aos="fade-up">
-              <div class="icon" ><i class="icofont-computer"></i></div>
-              <h4 class="title"><a href="view/services.php">Equipo</a></h4>
-            </div>
+            <a href="view/services.php">
+              <div class="icon-box" data-aos="fade-up">
+                <div class="icon" ><i class="icofont-computer"></i></div>
+                <h4 class="title"><a href="view/services.php">Equipo</a></h4>
+              </div>
+            </a>
           </div>
           <div class="col-lg-4 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
-              <h4 class="title"><a href="view/services.php">Precios</a></h4>
-            </div>
+            <a href="view/services.php">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
+                <h4 class="title"><a href="view/services.php">Precios</a></h4>
+              </div>
+            </a>
           </div>
           <div class="col-lg-4 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="icofont-earth"></i></div>
-              <h4 class="title"><a href="view/services.php">Internet</a></h4>
-            </div>
+            <a href="view/services.php">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+                <div class="icon"><i class="icofont-earth"></i></div>
+                <h4 class="title"><a href="view/services.php">Internet</a></h4>
+              </div>
+            </a>
           </div>
           <div class="col-lg-4 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="icofont-image"></i></div>
-              <h4 class="title"><a href="view/services.php">Mirador</a></h4>
-            </div>
+            <a href="view/services.php">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+                <div class="icon"><i class="icofont-image"></i></div>
+                <h4 class="title"><a href="view/services.php">Mirador</a></h4>
+              </div>
+            </a>
           </div>
           <div class="col-lg-4 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-              <div class="icon"><i class="icofont-settings"></i></div>
-              <h4 class="title"><a href="view/services.php">Seguridad</a></h4>
-            </div>
+            <a href="view/services.php">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+                <div class="icon"><i class="icofont-settings"></i></div>
+                <h4 class="title"><a href="view/services.php">Seguridad</a></h4>
+              </div>
+            </a>
           </div>
           <div class="col-lg-4 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
-              <div class="icon"><i class="icofont-tasks-alt"></i></div>
-              <h4 class="title"><a href="view/services.php">Calendarios</a></h4>
-            </div>
+            <a href="view/services.php">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+                <div class="icon"><i class="icofont-tasks-alt"></i></div>
+                <h4 class="title"><a href="view/services.php">Calendarios</a></h4>
+              </div>
+            </a>
           </div>
         </div>
       </div>
