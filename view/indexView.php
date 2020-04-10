@@ -136,11 +136,34 @@
       </div>
     </section><!-- End Cta Section -->
 
-      <h1>AQUI PONES LO TUYO KENNETH</h1>
-      <h3>PUTO EL QUE LO LEA ATTE:OJITOS BELLOS</h3>
-      <h5>PAPI AQUI ETA TU TIBURON XD</h5>
-      
+    <!-- ======= Pricing Section ======= -->
+    <section id="pricing" class="pricing">
+      <div class="container">
 
+      <div class="section-title" data-aos="fade-up">
+          <h2><strong>Promociones</strong></h2>
+        </div>
+        <div class="row">
+
+        <?php foreach($vars['listaOfertas'] as $oferta){  ?>
+
+          <div class="col-md-4">
+            <div class="box" data-aos="fade-right">
+              <h3> <?php echo $oferta['nombre'] ?></h3>
+              <?php echo $oferta['descripcion'] ?>
+              <img src=" <?php echo $oferta['imagen'] ?>" alt="oferta" class="img-fluid">
+              <div class="btn-wrap">
+                <a href=" <?php echo $oferta['link_destino'] ?>" target="_blank" class="btn-buy">Obtener</a>
+              </div>
+            </div>
+          </div>
+
+        <?php }?>
+
+        </div>
+
+      </div>
+    </section><!-- End Pricing Section -->
     <!-- ======= Services Section ======= -->
     <section id="serviceshome" class="serviceshome">
       <div class="container">
