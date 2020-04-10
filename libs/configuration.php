@@ -8,9 +8,9 @@ $config->set('controllerFolder', 'controller/'); //Nombre del folder , nombre de
 $config->set('modelFolder', 'model/');
 $config->set('viewFolder', 'view/');
 
-$config->set('dbhost','');
-$config->set('dbname','');
-$config->set('dbuser','');
-$config->set('dbpass','');
+$config->set('dbhost', '163.178.107.10');
+$config->set('dbname', 'bkrj');
+$config->set('dbuser', 'laboratorios');
+$config->set('dbpass', 'UCRSA.118');
 
 ?>

@@ -9,9 +9,14 @@ Class DefaultController {
     }//Constructor
     
     public function acciondefault(){
-               
+        require 'model/OfertasModel.php'; 
         //llamar modelo para traer datos 
-        $this->view->show("indexView.php", null);
+
+        $ofertasModel = new OfertasModel();
+
+        $datos['listaOfertas'] = $ofertasModel->obtenerOfertas();
+
+        $this->view->show("indexView.php", $datos);
         
     }//acciondefault
     
